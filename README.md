@@ -10,5 +10,8 @@
   2: run this command in cmd => main.py Text <Your Video File Path> <Your Outpot Audio File Path>
 
 # Developer
-  This project Developed By Phoenix
+  This project Developer By Phoenix
+
+# About Us
+  From Delta Inc
 
