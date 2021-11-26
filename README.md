@@ -10,11 +10,12 @@
   2: run this command in cmd => main.py Text <Your Video File Path> <Your Outpot Audio File Path>
 
 # Used Libs
-  =>os <br />
-  =>sys <br />
-  =>dap (Delta Audio Processors) <br />
-  =>check (check-tools) <br />
-  =>speech_recognition
+  ->os <br />
+  ->sys <br />
+  ->dap (Delta Audio Processors) <br />
+  ->check (check-tools) <br />
+  ->speech_recognition <br />
+  ->ffmpeg
 
 # Developer
   This project Developer By Phoenix
